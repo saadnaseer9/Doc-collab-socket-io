@@ -2,7 +2,9 @@
 
 A real-time collaborative document editor built with **Next.js 14 (App Directory)** and **Socket.IO**. Multiple users can edit documents simultaneously with live cursors, presence indicators, and automatic conflict resolution.
 
+⏱️ Project Timeline (2 Days)
 
+![alt text](image.png)
 ## ✨ Features
 
 ### 🏢 **Document Management**
